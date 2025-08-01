@@ -16,11 +16,15 @@ What else I did today:
 
 ☑️ Learned how to take user input in Python.
 
+
 ☑️ Built my first Magic 8 Ball script (IT WORKED!!!).
+
+
 
 ☑️ Practiced writing conditional statements.
 
-☑️ Ran code in Termux like a cyber baddie.
+
+☑️ Ran code in Termux again. 
 
 
 💡 What I learned:
@@ -63,9 +67,15 @@ Maybe let the 8 Ball repeat until user types “exit”.
 What I did today:
 
 ☑️ Took user input for a password (the script talked back, again).
+
 ☑️ Checked if it had lowercase, uppercase, digits, symbols, and length ≥ 8.
+
 ☑️ Used multiple if conditions to score password strength.
+
 ☑️ Printed final judgment: weak / medium / strong — cold but fair.
+
+
+💫 File saved as "python password_strength.py"
 
 💡 What I learned:
 
